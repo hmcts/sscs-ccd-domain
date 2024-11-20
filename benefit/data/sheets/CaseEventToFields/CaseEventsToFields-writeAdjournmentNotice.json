@@ -277,7 +277,7 @@
     "RetainHiddenValue": "Yes"
   },
   {
-    ",ShowSummaryChangeOption": "Y",
+    "ShowSummaryChangeOption": "Y",
     "CaseEventID": "adjournCase",
     "CaseFieldID": "adjournCaseTime",
     "CaseTypeID": "Benefit",
